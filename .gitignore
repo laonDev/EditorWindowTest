@@ -1,0 +1,9 @@
+﻿.vscode
+Logs
+Temp
+UserSettings
+obj
+Library
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Test.sln
